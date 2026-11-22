@@ -1,1 +1,4 @@
 # Glossary
+
+<span id="entry">entry</span>
+:   A glossary entry.
