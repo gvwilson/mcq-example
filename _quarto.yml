@@ -15,5 +15,3 @@ book:
     - contributing/index.qmd
     - bibliography/index.qmd
     - glossary/index.qmd
-
-bibliography: bibliography/references.bib

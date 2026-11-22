@@ -10,6 +10,16 @@
     ]
   },
   {
+    "objectID": "intro/index.html",
+    "href": "intro/index.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "(Haberman and Wilson 2023)\n\n\n\n\nHaberman, Jess, and Greg Wilson. 2023. “Ten Simple Rules for Writing a Technical Book.” PLOS Computational Biology 19 (8). https://doi.org/10.1371/journal.pcbi.1011305.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
     "objectID": "license/index.html",
     "href": "license/index.html",
     "title": "Appendix A — License",
@@ -135,10 +145,21 @@
     "href": "bibliography/index.html",
     "title": "Appendix D — Bibliography",
     "section": "",
-    "text": "Brookfield, Stephen D., and Stephen Preskill. 2016. The Discussion Book: 50 Great Ways to Get People Talking. Jossey-Bass. ISBN 9781119049715.\n\n\nBueno de Mesquita, Bruce, and Alastair Smith. 2022. The Dictator’s Handbook: Why Bad Behavior is Almost Always Good Politics. PublicAffairs. ISBN 9781541701366.\n\n\nKuchner, Marc J. 2011. Marketing for Scientists: How to Shine in Tough Times. Island Press. ISBN 9781597269940.\n\n\nScott, James C. 2020. Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed. Yale University Press. ISBN 9780300246759.\n\n\nWendorff, Peter. 2022. Politics in Software Development: Navigating Stakeholder Power and Conflict in Organizations. Apress. ISBN 9781484273791.",
+    "text": "Haberman, Jess, and Greg Wilson. 2023. “Ten Simple Rules for\nWriting a Technical Book.” PLOS Computational\nBiology 19 (8). https://doi.org/10.1371/journal.pcbi.1011305.",
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>D</span>  <span class='chapter-title'>Bibliography</span>"
+    ]
+  },
+  {
+    "objectID": "glossary/index.html",
+    "href": "glossary/index.html",
+    "title": "Appendix E — Glossary",
+    "section": "",
+    "text": "entry\n\nA glossary entry.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Glossary</span>"
     ]
   }
 ]
