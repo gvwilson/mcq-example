@@ -3,8 +3,6 @@ metadata-files:
 
 book:
   title: "McCole Example"
-  repo-url: "FIXME"
-  repo-actions: [edit, source, issue]
   chapters:
     - index.qmd
     - intro/index.qmd
